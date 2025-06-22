@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: xuanhoa2772004/vdt-frontend
   pullPolicy: IfNotPresent
-  tag: "3.0"
+  tag: "4.0"
 
 imagePullSecrets: []
 nameOverride: ""
